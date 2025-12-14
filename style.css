@@ -112,6 +112,14 @@ section div .btn2{
     border: 1px solid black;
     border-radius: 10px;
 }
+section div .btn2 a{
+    color: white;
+}
+section div .btn2:hover{
+    background-color: darkblue;
+    cursor: pointer;
+}
+# ramesh chandra mahakud
 
 
 
